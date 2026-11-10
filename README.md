@@ -1,0 +1,2 @@
+# pigeonhole-app
+Email manager
